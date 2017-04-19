@@ -36,4 +36,4 @@ Used Hapi on the server side, Postgres(with Login authentication) as our Databas
 A prototype built for Anna Freud Center which encourages clinicians and patients to make a shared decision about the treatment that the patient will receive.
 
 ## EDUCATION
-Student at Tel Aviv University’s Sagol School of Neuroscience 2010-2013
+2013-2016 Student at Tel Aviv University’s Sagol School of Neuroscience 
