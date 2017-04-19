@@ -7,3 +7,13 @@ I am a full-stack Javascript developer based in Haifa. Currently Im freelancing 
 | Languages | Frameworks/Libraries | Testing | Databases | Tools/Others |
 | --------- | -------------------- | ------- | --------- | ------------ |
 |Javascript | Hapi.js              | Tape    | Postgres  | Git          |
+|Node.js    | Express.js           | Enzyme  | MongoDB   | Heroku       |
+|HTML5      | React.js             | Jest    |           | NPM          |
+|CSS3       | Materialize          | Jasmine |           | Traivs CI    |
+|SQL        | Tachyons             | QUnit   |           | Handlebars   |
+|           |                      | Istanbul|           | CodeCov      |
+
+Also familiar with Python and Java.
+
+
+## Projects
