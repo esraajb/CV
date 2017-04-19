@@ -5,7 +5,5 @@ I am a full-stack Javascript developer based in Haifa. Currently Im freelancing 
 ## SKILLS
 
 | Languages | Frameworks/Libraries | Testing | Databases | Tools/Others |
-
 | --------- | -------------------- | ------- | --------- | ------------ |
-
 |Javascript | Hapi.js              | Tape    | Postgres  | Git          |
