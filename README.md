@@ -18,7 +18,8 @@ Also familiar with Python and Java.
 
 ## Projects
 ### [Near miss](https://berkely-homes-interventions.herokuapp.com/)
-A mobile first built application. Focused mainly on the front end.
+A mobile first designed web application.
+Focused mainly on the front end.
 Worked with React, Redux and Tachyons. Tested with Tape and Enzyme.
 
 ### [Isomorphic Javascript Application](https://github.com/esraajb/IsoJSapp)
