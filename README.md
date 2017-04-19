@@ -21,7 +21,7 @@ Also familiar with Python and Java.
 A mobile first built application. Focused mainly on the front end.
 Worked with React, Redux and Tachyons. Tested with Tape and Enzyme.
 
-### [isomorphic javascript application](https://github.com/esraajb/IsoJSapp)
+### [Jsomorphic Javascript Application](https://github.com/esraajb/IsoJSapp)
 Built the whole application. Used React on the Front-end, Express on the Back-end.
 This application is special because I am rendering react from the server using Express and React-router.
 
