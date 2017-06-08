@@ -11,8 +11,8 @@ I am a full-stack Javascript developer based in Israel. Currently Im working as 
 |HTML5      | React.js             | Jest    |           | NPM          |
 |CSS3       | Redux                | Jasmine |           | Traivs CI    |
 |SQL        | Tachyons             | QUnit   |           | Handlebars   |
-|           | Materialize          | Istanbul|           | CodeCov      |
-|           |                      |         |           | mongoose     |
+|           | Materialize          | Istanbul|           | Webpack      |
+|           |                      |         |           | Mongoose     |
 
 
 Also familiar with Python and Java.
