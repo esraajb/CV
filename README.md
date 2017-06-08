@@ -19,7 +19,7 @@ I am a full-stack Javascript developer based in Haifa. Currently Im working as a
 Also familiar with Python and Java.
 ## Projects
 ### [Near miss](https://berkely-homes-interventions.herokuapp.com/)
-A mobile first designed web application.
+A mobile first web application.
 Focused mainly on the front end.
 Worked with React, Redux and Tachyons. Tested with Tape and Enzyme.
 
