@@ -10,10 +10,10 @@ I am a full-stack Javascript developer based in Haifa. Currently Im freelancing 
 |Javascript | Hapi.js              | Tape    | Postgres  | Git          |
 |Node.js    | Express.js           | Enzyme  | MongoDB   | Heroku       |
 |HTML5      | React.js             | Jest    |           | NPM          |
-|CSS3       | Materialize          | Jasmine |           | Traivs CI    |
+|CSS3       | Redux                | Jasmine |           | Traivs CI    |
 |SQL        | Tachyons             | QUnit   |           | Handlebars   |
-|           |                      | Istanbul|           | CodeCov      |
-
+|           | Materialize          | Istanbul|           | CodeCov      |
+|           |                      |         |           | mongoose     |
 Also familiar with Python and Java.
 
 
@@ -23,7 +23,7 @@ A mobile first designed web application.
 Focused mainly on the front end.
 Worked with React, Redux and Tachyons. Tested with Tape and Enzyme.
 
-### [Isomorphic Javascript Application](https://github.com/esraajb/IsoJSapp)
+### [Isomorphic Javascript Application](https://github.com/esraajb/isomorphicJSapp)
 Built the whole application. Used React on the Front-end, Express on the Back-end.
 This application is special because I am rendering react from the server using Express and React-router.
 
