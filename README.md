@@ -14,9 +14,9 @@ I am a full-stack Javascript developer based in Haifa. Currently Im freelancing 
 |SQL        | Tachyons             | QUnit   |           | Handlebars   |
 |           | Materialize          | Istanbul|           | CodeCov      |
 |           |                      |         |           | mongoose     |
+
+
 Also familiar with Python and Java.
-
-
 ## Projects
 ### [Near miss](https://berkely-homes-interventions.herokuapp.com/)
 A mobile first designed web application.
