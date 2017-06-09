@@ -7,13 +7,13 @@ I am a full-stack Javascript developer based in Israel. Currently Im working as 
 | Languages | Frameworks/Libraries | Testing | Databases | Tools/Others |
 | --------- | -------------------- | ------- | --------- | ------------ |
 |Javascript | Hapi.js              | Tape    | Postgres  | Git          |
-|Node.js    | Express.js           | Enzyme  | MongoDB   | Heroku       |
+|Node.js    | Express.js           | Enzyme  | MongoDB   | ES6          |
 |HTML5      | React.js             | Jest    |           | NPM          |
-|CSS3       | Redux                | Jasmine |           | Traivs CI    |
-|SQL        | Tachyons             | QUnit   |           | Handlebars   |
-|           | Materialize          | Istanbul|           | Webpack      |
+|CSS3       | Redux.js             | Jasmine |           | Traivs CI    |
+|SQL        | Immutable.js         | QUnit   |           | Handlebars   |
+|           | Tachyons             | Istanbul|           | Webpack      |
 |           |                      |         |           | Mongoose     |
-
+|           |                      |         |           | Heroku       |
 
 Also familiar with Python and Java.
 ## Projects
