@@ -1,6 +1,6 @@
 # CV - Esraa Jbara
 
-I am a full-stack Javascript developer based in Israel. Currently Im working as a freelancer and mentoring at [Founders & Coders](www.foundersandcoders.com), a highly selective sixteen week coding bootcamp. I am a passionate learner, self-motivated and eager to explore new languages.
+I am a full-stack Javascript developer based in Israel. Currently working as a freelancer and mentoring at [Founders & Coders](www.foundersandcoders.com), a highly selective sixteen week coding bootcamp. I am a passionate learner, self-motivated and eager to explore new languages.
 
 ## SKILLS
 
